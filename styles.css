@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: aquamarine;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+table {
+    margin: auto;
+    border: 1px solid #ff007f;
+    text-align: center;
+}
